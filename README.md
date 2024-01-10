@@ -1,2 +1,2 @@
 # mein-projekt
-Aufgabe zum Erstellen eines Repositorys
+Erstellen eines Repositorys
